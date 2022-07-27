@@ -22,9 +22,24 @@ namespace Assignments
             //a5.Assignment();
             //Assignment6 a6 = new Assignment6();
             //a6.Assignment();
-            Assignment7 a7 = new Assignment7();
-            a7.Assignment();
-
+            //Assignment7 a7 = new Assignment7();
+            //a7.Assignment();
+            Assignment8 a8 = new Assignment8();
+            a8.Assignment();
+            //Assignment9 a9 = new Assignment9();
+            //a9.Assignment();
+            //Assignment10 a10 = new Assignment10();
+            //a10.Assignment();
+            //Assignment11 a11 = new Assignment11();
+            //a11.Assignment();
+            //Assignment12 a12 = new Assignment12();
+            //a12.Assignment();
+            //Assignment13 a13 = new Assignment13();
+            //a13.Assignment();
+            //Assignment14 a14 = new Assignment14();
+            //a14.Assignment();
+            Assignment15 a15 = new Assignment15();
+            a15.Assignment();
         }
     }
 }

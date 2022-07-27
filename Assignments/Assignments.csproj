@@ -43,13 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assignment11.cs" />
+    <Compile Include="Assignment14.cs" />
     <Compile Include="Assignment1.cs" />
+    <Compile Include="Assignment10.cs" />
+    <Compile Include="Assignment12.cs" />
+    <Compile Include="Assignment13.cs" />
+    <Compile Include="Assignment15.cs" />
     <Compile Include="Assignment2.cs" />
     <Compile Include="Assignment3.cs" />
     <Compile Include="Assignment4.cs" />
     <Compile Include="Assignment5.cs" />
     <Compile Include="Assignment6.cs" />
+    <Compile Include="Assignment8.cs" />
     <Compile Include="Assignment7.cs" />
+    <Compile Include="Assignment9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
